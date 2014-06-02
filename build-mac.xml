@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
-<project name="build-mac">
-  <property name="tomcat.dir" value="/usr/local/share/java/tomcat" />
-</project>
